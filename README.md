@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[(https://avatars.githubusercontent.com/u/229242861?v=4)]" width="180" height="180" alt="Amith Baragi" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 24px rgba(139, 92, 246, 0.7);" />
+  <img src="https://avatars.githubusercontent.com/u/229242861?v=4" width="180" height="180" alt="Amith Baragi" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 24px rgba(139, 92, 246, 0.7);" />
 </p>
 
 <h1 align="center">Amith Baragi</h1>
