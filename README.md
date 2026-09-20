@@ -1,64 +1,96 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/179736463?v=4" width="180" height="180" alt="Amith Baragi" style="border-radius: 50%; border: 3px solid #7C3AED; box-shadow: 0 0 25px rgba(124, 58, 237, 0.6);" />
+  <img src="C:\Users\amith\OneDrive\Pictures\amith.jpeg" width="180" height="180" alt="Amith Baragi" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 24px rgba(139, 92, 246, 0.7);" />
 </p>
 
-<h1 align="center">Hi there, I’m Amith Baragi 👋</h1>
+<h1 align="center">Amith Baragi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;MCA+Student;Web+App+Builder;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amith-baragi-94a340314?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/_.amith_baragi._?stkn=MW5zcnoydDZwdHVjOA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:amith6491@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;MCA+Student;React+%7C+Node.js+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Python-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Current-Open%20to%20Opportunities-FFB800?style=flat-square" />
+  <a href="https://www.linkedin.com/in/amith-baragi-94a340314?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_.amith_baragi._?stkn=MW5zcnoydDZwdHVjOA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:amith6491@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full-Stack-Development-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech-MERN%2B%20Python-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-FFB800?style=flat-square" />
 </p>
 
 ---
 
 ## About Me
 
-I’m a motivated MCA student with a strong passion for software development, web technologies, and building practical digital solutions. I enjoy turning ideas into responsive, user-friendly applications and continuously learning modern tools and frameworks.
+I’m a motivated MCA student with a strong passion for building modern, user-friendly digital experiences. I enjoy turning ideas into practical web applications and constantly improving my skills in development, design, and problem-solving.
 
-- 🔭 Currently exploring full-stack development and real-world project building
-- 🌱 Learning React, Node.js, Express, MongoDB, and Python
-- 💡 Interested in problem-solving, clean architecture, and user-focused design
-- 🚀 Looking for opportunities to grow, contribute, and build impactful projects
+- 🌱 Learning and growing in full-stack development
+- 💻 Building projects with React, Node.js, Express, MongoDB, and Python
+- 🚀 Interested in real-world applications, clean architecture, and scalable systems
+- 🔍 Always exploring new technologies and creative solutions
+
+---
+
+## What I Do
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <br />
+        <sub>Responsive UI, modern layouts, smooth user experiences</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <br />
+        <sub>APIs, auth, logic, and scalable application flows</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <br />
+        <sub>Data modeling, storage, and efficient application design</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## Featured Projects
 
 ### EduManage
-A full-stack education management platform for students, teachers, attendance, exam records, and fees, with role-based dashboards for admin, teacher, and student roles.
+A full-stack education management platform for students, teachers, attendance, exams, and fees with role-based dashboards.
 
 - Tech: Next.js, Node.js, PostgreSQL, Prisma
-- Status: Built as a full-featured management system
+- Focus: Academic workflow automation and management
 
 ### FinSight AI (Finflowy)
-An AI-powered personal finance platform with modular services for auth, transactions, goal tracking, analytics, and admin management.
+An AI-powered financial platform for personal finance tracking, insights, goals, and microservice-based architecture.
 
-- Tech: MERN stack, Python ML services, FastAPI, Docker
+- Tech: MERN stack, FastAPI, Docker, Python ML services
 - Link: https://github.com/shreyas-bhandari/Finflowy
 
 ### Inkwell
-A full MERN-stack blogging application featuring JWT-based authentication, routing, and a clean UI.
+A full-stack blog application with JWT authentication, clean UI, and blog management features.
 
 - Tech: React, Node.js, Express, MongoDB, Tailwind CSS
 
 ### Grama Seva
-A village complaint management web app designed to automate complaint prioritization and send alerts.
+A village complaint management system with automated prioritization and email notifications.
 
-- Tech: Flask, Python, Email notifications
+- Tech: Flask, Python
 
 ### Personal Portfolio
-A responsive portfolio website with a dark aesthetic, project showcase, and a contact form powered by EmailJS.
+A dark-themed personal portfolio with project showcase and contact form integration.
 
 ---
 
@@ -93,15 +125,15 @@ A responsive portfolio website with a dark aesthetic, project showcase, and a co
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amith6491-netizen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amith6491-netizen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amith6491-netizen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=amith6491-netizen&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith6491-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith6491-netizen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -124,10 +156,10 @@ A responsive portfolio website with a dark aesthetic, project showcase, and a co
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:amith6491@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amith6491-netizen&label=Profile+Views&color=7C3AED" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amith6491-netizen&label=Profile+Views&color=8B5CF6" alt="Profile Views" />
 </p>
