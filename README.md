@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[C:\Users\amith\OneDrive\Pictures\amith.jpeg](https://avatars.githubusercontent.com/u/229242861?v=4)" width="180" height="180" alt="Amith Baragi" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 24px rgba(139, 92, 246, 0.7);" />
+  <img src="[(https://avatars.githubusercontent.com/u/229242861?v=4)]" width="180" height="180" alt="Amith Baragi" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 24px rgba(139, 92, 246, 0.7);" />
 </p>
 
 <h1 align="center">Amith Baragi</h1>
@@ -72,17 +72,18 @@ A full-stack education management platform for students, teachers, attendance, e
 
 - Tech: Next.js, Node.js, PostgreSQL, Prisma
 - Focus: Academic workflow automation and management
+- link:
 
 ### FinSight AI (Finflowy)
 An AI-powered financial platform for personal finance tracking, insights, goals, and microservice-based architecture.
 
 - Tech: MERN stack, FastAPI, Docker, Python ML services
-- Link: https://github.com/shreyas-bhandari/Finflowy
 
 ### Inkwell
 A full-stack blog application with JWT authentication, clean UI, and blog management features.
 
 - Tech: React, Node.js, Express, MongoDB, Tailwind CSS
+- link: https://inkwellhub.vercel.app/
 
 ### Grama Seva
 A village complaint management system with automated prioritization and email notifications.
@@ -91,6 +92,7 @@ A village complaint management system with automated prioritization and email no
 
 ### Personal Portfolio
 A dark-themed personal portfolio with project showcase and contact form integration.
+- link: https://amith6491-netizen.github.io/personalportfolio/
 
 ---
 
