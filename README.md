@@ -1,41 +1,133 @@
-# 💫 About Me:
-Motivated MCA student with a strong interest in software development and web technologies.<br>Skilled in building responsive and user-friendly web applications.<br>Familiar with React.js, JavaScript, Node.js, Express.js, MongoDB, and Python.<br>Enjoy solving problems, learning new technologies, and developing practical projects.<br>Seeking opportunities to apply technical skills, gain industry experience, and contribute to software projects.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/179736463?v=4" width="180" height="180" alt="Amith Baragi" style="border-radius: 50%; border: 3px solid #7C3AED; box-shadow: 0 0 25px rgba(124, 58, 237, 0.6);" />
+</p>
 
+<h1 align="center">Hi there, I’m Amith Baragi 👋</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.amith_baragi._?stkn=MW5zcnoydDZwdHVjOA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amith-baragi-94a340314?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amith6491@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;MCA+Student;Web+App+Builder;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-## 🚀 Projects:
+<p align="center">
+  <a href="https://www.linkedin.com/in/amith-baragi-94a340314?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/_.amith_baragi._?stkn=MW5zcnoydDZwdHVjOA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:amith6491@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- **EduManage** — Full-stack education management platform for students, teachers, attendance, exams, and fees, with role-based dashboards (admin/teacher/student). Built with Next.js, Node.js, PostgreSQL, and Prisma.
-  🔗 [Repo link here]
-
-- **FinSight AI (Finflowy)** — AI-powered personal finance platform with a microservice architecture (auth, transactions, goal tracking, ML insight engine, admin). Built on the MERN stack with Python ML services (FastAPI/Flask) and Docker.
-  🔗 [github.com/shreyas-bhandari/Finflowy](https://github.com/shreyas-bhandari/Finflowy)
-
-- **Inkwell** — Full MERN-stack blog application with JWT authentication, React Router, and Tailwind CSS, built and deployed end-to-end.
-  🔗 [Repo link here]
-
-- **Grama Seva** — Flask-based complaint management system for villages, featuring automated priority detection and email alerts.
-  🔗 [Repo link here]
-
-- **Personal Portfolio** — Responsive personal portfolio site with a dark theme, project cards, and an EmailJS-powered contact form, deployed on GitHub Pages.
-  🔗 [Repo link here]
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amith6491-netizen&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=amith6491-netizen&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amith6491-netizen&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amith6491-netizen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Python-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current-Open%20to%20Opportunities-FFB800?style=flat-square" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=amith6491-netizen&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I’m a motivated MCA student with a strong passion for software development, web technologies, and building practical digital solutions. I enjoy turning ideas into responsive, user-friendly applications and continuously learning modern tools and frameworks.
+
+- 🔭 Currently exploring full-stack development and real-world project building
+- 🌱 Learning React, Node.js, Express, MongoDB, and Python
+- 💡 Interested in problem-solving, clean architecture, and user-focused design
+- 🚀 Looking for opportunities to grow, contribute, and build impactful projects
+
+---
+
+## Featured Projects
+
+### EduManage
+A full-stack education management platform for students, teachers, attendance, exam records, and fees, with role-based dashboards for admin, teacher, and student roles.
+
+- Tech: Next.js, Node.js, PostgreSQL, Prisma
+- Status: Built as a full-featured management system
+
+### FinSight AI (Finflowy)
+An AI-powered personal finance platform with modular services for auth, transactions, goal tracking, analytics, and admin management.
+
+- Tech: MERN stack, Python ML services, FastAPI, Docker
+- Link: https://github.com/shreyas-bhandari/Finflowy
+
+### Inkwell
+A full MERN-stack blogging application featuring JWT-based authentication, routing, and a clean UI.
+
+- Tech: React, Node.js, Express, MongoDB, Tailwind CSS
+
+### Grama Seva
+A village complaint management web app designed to automate complaint prioritization and send alerts.
+
+- Tech: Flask, Python, Email notifications
+
+### Personal Portfolio
+A responsive portfolio website with a dark aesthetic, project showcase, and a contact form powered by EmailJS.
+
+---
+
+## Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amith6491-netizen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amith6491-netizen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith6491-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amith-baragi-94a340314?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_.amith_baragi._?stkn=MW5zcnoydDZwdHVjOA==">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:amith6491@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amith6491-netizen&label=Profile+Views&color=7C3AED" alt="Profile Views" />
+</p>
