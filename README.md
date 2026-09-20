@@ -140,14 +140,6 @@ A dark-themed personal portfolio with project showcase and contact form integrat
 
 ---
 
-## Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
